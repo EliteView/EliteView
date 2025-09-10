@@ -1,5 +1,9 @@
 ## Hi 👋 I'm Onele Christian
 
+### I'm currently a Machine Leanrning Engineer
+### I'm looking forward to collaborate with you
+### 💬 Ask about me @https://x.com/christopot78151?s=90
+
 <!--
 ** ✨ A Machine Leaning Engineer✨
 
