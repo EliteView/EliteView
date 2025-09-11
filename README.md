@@ -1,4 +1,4 @@
-<img width="808" height="628" alt="image" src="https://github.com/user-attachments/assets/df5e51aa-e59b-44db-8d9a-8a475d4cdd49" />## Hi 👋 I'm Onele Christian
+## Hi 👋 I'm Onele Christian
 
 ### I'm currently a Machine Leanrning Engineer
 ### I'm looking forward to collaborate with you
