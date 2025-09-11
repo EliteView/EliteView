@@ -3,7 +3,7 @@
 ### I'm currently a Machine Leanrning Engineer
 ### I'm looking forward to collaborate with you
 ### 💬 Ask about me @https://x.com/christopot78151?s=90
-### 🚗 Check My Car Price Pedictor @https://eliteview-car-price-prediction-app-5hqtke.streamlit.app/
+### 🚗 Check My Car Price Pedictor App @https://eliteview-car-price-prediction-app-5hqtke.streamlit.app/
 
 
 <!--
